@@ -59,7 +59,7 @@ Projede şu örnekler bulunur:
 ## 🔗 Bağlantılar
 
 - **Kaggle Notebook**: [Decision Trees Türkçe Rehber](https://www.kaggle.com/code/mustafaatakanyucel/karar-agaclari-decision-trees/notebook)
-- **Medium Makalesi**: [Karar Ağaçları - Detaylı Rehber]([medium-link-buraya](https://mustafaatakanyucel.medium.com/hands-on-ml-türkçe-öğrenim-notları-7-056ad61ff1e0))
+- **Medium Makalesi**: [Karar Ağaçları - Detaylı Rehber]((https://mustafaatakanyucel.medium.com/hands-on-ml-türkçe-öğrenim-notları-7-056ad61ff1e0))
 
 ## 📚 Kaynaklar
 
